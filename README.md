@@ -1,15 +1,19 @@
 # YahooFinance
 
-    <span>To Install dependecies </span>
-    <p>"npm install" </p>
+    To Install dependecies 
+    "npm install" 
     
-    <p>API end points for news api</p>
+    start app using 
+    
+    "npm start"
+    
+    API end points for news api
 
-    <p>http://localhost:3000/api/getNews </p>
+    http://localhost:3000/api/getNews 
 
     parameter: symbol
 
-    <p>API end points for analysis api</p>
+    API end points for analysis api
 
     http://localhost:3000/api/getAnalysis
     
