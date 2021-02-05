@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const yahooApi = require('./api/getAnalysis');
+const yahooApi = require('./api/yahooApi');
 // Add this after the middleware part
 
 router.get('/getAnalysis', async function (req, res, next) {
