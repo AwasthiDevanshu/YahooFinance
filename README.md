@@ -1,6 +1,7 @@
 # YahooFinance
 
     To Install dependecies 
+    update Rapid API key in constant/config.js
     "npm install" 
     
     start app using 
